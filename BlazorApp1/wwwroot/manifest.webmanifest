@@ -1,8 +1,9 @@
 {
   "name": "BlazorApp1",
   "short_name": "BlazorApp1",
-  "id": "./",
-  "start_url": "./",
+  "id": "/BlazorApp1/",
+  "start_url": "/BlazorApp1/",
+  "scope": "/BlazorApp1/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#03173d",
